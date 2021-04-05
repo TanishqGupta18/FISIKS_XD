@@ -1,2 +1,2 @@
-# FISIKS_XD
-PRO- C24
+# Geologist
+Geologist Project
